@@ -33,4 +33,4 @@ language used
 
 Connect with me
 
-imran linkedin Imran facebook imran insta
+imran linkedin zubair facebook zubair insta
