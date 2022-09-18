@@ -1,12 +1,36 @@
 - 👋 Hi, I’m @Md Zubair
-- 
-- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-MDZUBAIR599/MDZUBAIR599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+💫About Me :
+👋 Hello, Welcome to my profile
+⚡ I'm a passionate Full Stack Web Developer
+📫 How to reach me -> drop me a mail at here
+❤️ You can ping me at LinkedIn
+👨‍💻 Want to Know about me My Portfolio
+
+
+profile view
+
+💻Tech Stack
+JavaScript HTML CSS React Redux TypeScript Cypress Jest Chakra-UI Postman Netlify Versel GitHub
+
+📊GitHub Stats
+zubair's Activity Graph
+
+zubair's github trofy
+
+
+zubair's github streak
+
+
+github stats
+
+
+language used
+
+
+
+Connect with me
+
+imran linkedin Imran facebook imran insta
