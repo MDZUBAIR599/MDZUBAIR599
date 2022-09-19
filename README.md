@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm MD Zuabir</h1>
 <h3 align="center"I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends.</h3>
-
+<div  padding=:"20px">
 <img align='center' alt='coding' width='400' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'>
+</div>
+
 
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzubair599" alt="mdzubair5999" /></a> </p>
+
+
 <div>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
