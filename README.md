@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Zuabir</h1>
-<h3 align="center">A passionate Full Stack web Developer from India</h3>
+<h3 align="center"I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends.</h3>
 
 <img align='center' alt='coding' width='400' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'>
 
