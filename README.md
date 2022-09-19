@@ -9,15 +9,16 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://mdzubair599.github.io/](https://mdzubair599.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://mdzubair599.github.io/">My Portfolio</a>
 
-- 📝 I regularly write articles on [https://medium.com/@mdzubair5999a](https://medium.com/@mdzubair5999a)
+- 📝 I regularly write articles on  <a href="https://medium.com/@mdzubair5999a">My Medium</a>
 
 - 💬 Ask me about **React, Redux, Javascript**
 
+
 - 📫 How to reach me **mdzubair5999a@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing](https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing)
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing/">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
