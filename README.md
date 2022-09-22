@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Zuabir</h1>
 <h3 align="center"I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends.</h3>
-<div  padding=:"20px">
+<div  margin:"auto">
 <img align='center' alt='coding' width='400' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'>
 </div>
 
@@ -11,18 +11,18 @@
 
 <div>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at <a href="https://mdzubair599.github.io/">My Portfolio</a>
+ 👨‍💻 All of my projects are available at <a href="https://mdzubair599.github.io/">My Portfolio</a>
 
-- 📝 I regularly write articles on  <a href="https://medium.com/@mdzubair5999a">My Medium</a>
+ 📝 I regularly write articles on  <a href="https://medium.com/@mdzubair5999a">My Medium</a>
 
-- 💬 Ask me about **React, Redux, Javascript**
+💬 Ask me about **React, Redux, Javascript**
 
 
-- 📫 How to reach me **mdzubair5999a@gmail.com**
+ 📫 How to reach me **mdzubair5999a@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing/">My Resume</a>
+ 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing/">My Resume</a>
 </div>
 
 <h1 align="center">Connect with me:</h1>
