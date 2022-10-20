@@ -9,7 +9,7 @@
 ⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!<br/>
 📫 How to reach me -&gt; drop me a mail at <a href="mailto:mdzubair5999a@gmail.com">mdzubair5999a@gmail.com</a><br/>
 ❤️ You can ping me at <a href="https://www.linkedin.com/in/md-zubair-229321230/">LinkedIn</a><br/>
-👨‍💻 Want to Know about me <a href="https://mdzubair599.github.io/">My Portfolio</a>
+👨‍💻 Want to Know about me <a href="https://mdzubair599.github.io/">My Portfolio</a><br/>
 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing/">My Resume</a>
 
 <!------------------------Profile view----------------->
@@ -86,8 +86,9 @@
 <a href="https://twitter.com/mdzubair5999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdzubair5999" width="50" height="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100043325956636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imran facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shaikh___zubair/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubair insta" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/mdzubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mdzubair" width="50" height="50"" /></a>
 </p>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mdzubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mdzubair" width="50" height="50"" /></a>
+
 
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
