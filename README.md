@@ -11,7 +11,7 @@
 📫 How to reach me -&gt; drop me a mail at <a href="mailto:mdzubair5999a@gmail.com">mdzubair5999a@gmail.com</a><br/>
 ❤️ You can ping me at <a href="https://www.linkedin.com/in/md-zubair-229321230/">LinkedIn</a><br/>
 👨‍💻 Want to Know about me <a href="https://mdzubair599.github.io/">My Portfolio</a><br/>
-📄 Know about my experiences  <a href="https://drive.google.com/file/d/1rCU_9SRskkaSupC5XBjXEuDds9DY_nTh/view?usp=sharing/">My Resume</a></>
+📄 Know about my experiences 
 </div>
 
 <!------------------------Profile view----------------->
